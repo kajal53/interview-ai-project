@@ -1,23 +1,23 @@
-# 🎯 AI Interview Prep — Smart Interview Preparation Tool
+#  AI Interview Prep — Smart Interview Preparation Tool
 
 An AI-powered full-stack web application that analyzes your resume and job description to generate a personalized interview preparation plan using Google Gemini AI.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 📄 **Resume Upload** — Upload your PDF resume for AI analysis
-- 🧠 **AI Interview Report** — Get tailored technical & behavioral questions with answers
-- 📊 **Job Match Score** — See how well your profile matches the job
-- 🔍 **Skill Gap Analysis** — Know exactly what skills you're missing
-- 📅 **Day-wise Preparation Plan** — A structured plan to ace your interview
-- 📝 **AI Resume Generator** — Generate an ATS-friendly resume tailored to the job
-- 🔐 **Authentication** — Secure login/register with JWT cookies
-- 📁 **Report History** — Access all your past interview reports
+-  **Resume Upload** — Upload your PDF resume for AI analysis
+-  **AI Interview Report** — Get tailored technical & behavioral questions with answers
+-  **Job Match Score** — See how well your profile matches the job
+-  **Skill Gap Analysis** — Know exactly what skills you're missing
+-  **Day-wise Preparation Plan** — A structured plan to ace your interview
+-  **AI Resume Generator** — Generate an ATS-friendly resume tailored to the job
+-  **Authentication** — Secure login/register with JWT cookies
+-  **Report History** — Access all your past interview reports
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 | Technology | Purpose |
@@ -40,7 +40,7 @@ An AI-powered full-stack web application that analyzes your resume and job descr
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 interview-ai-project/
@@ -125,7 +125,7 @@ npm run dev
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 | Variable | Description |
 |---|---|
@@ -156,7 +156,7 @@ npm run dev
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. **Register/Login** to your account
 2. **Paste the Job Description** you are applying for
@@ -168,13 +168,6 @@ npm run dev
    - Skill Gaps
    - Day-wise Prep Plan
 6. Download a tailored **AI Resume PDF**
-
----
-
-## 🙌 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
-
 ---
 
 ## 📄 License
