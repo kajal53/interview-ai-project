@@ -17,19 +17,6 @@ An AI-powered full-stack web application that analyzes your resume and job descr
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home Page — Interview Plan Generator
-![Home Page](home.png)
-
-### 📝 Register Page
-![Register Page](register.png)
-
-### 🔐 Login Page
-![Login Page](Login.png)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend
