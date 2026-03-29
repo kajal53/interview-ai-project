@@ -123,8 +123,6 @@ npm install
 npm run dev
 ```
 
-App will open at: **http://localhost:5173**
-
 ---
 
 ## 🔑 Environment Variables
